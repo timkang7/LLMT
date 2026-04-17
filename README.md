@@ -1,4 +1,4 @@
-# LLMT (Windows)
+# LLMT
 
 A local translation desktop app for Windows, powered by LMStudio OpenAI-compatible API.
 
