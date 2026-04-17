@@ -1,0 +1,5 @@
+PySide6>=6.7.0
+requests>=2.31.0
+eng-to-ipa>=0.0.2
+pypinyin>=0.51.0
+pyttsx3>=2.90
